@@ -1,2 +1,2 @@
 # ARtic-s-Portfolio
-My personal portfoliO for commisions.
+My personal portfolio for commisions.
